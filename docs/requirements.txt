@@ -17,7 +17,7 @@ Flask-Mail==0.9.1
 Flask-Migrate==1.7.0
 Flask-Principal==0.4.0
 Flask-RESTful==0.3.3
-Flask-Script==2.0.5
+Flask-Script==2.0.6
 Flask-SQLAlchemy==2.1
 future==0.15.2
 gunicorn==19.4.1
